@@ -3,8 +3,8 @@
 }
 .todo{
     width: 400px;
-    ;
-    min-height: 600px;
+    
+    height: 600px;
     border-radius: 20px;
     background: #fff;
     margin: auto;
